@@ -15,5 +15,10 @@ Stack par ordre de maîtrise:
   - Angular ( montée en compétence en cours )
   - Php et Html/CSS
   - Assembleur ARM
+
+Mobilitée géographique:
+  - Genève
+  - Lyon
+  - Grenoble
   
 Vous pouvez me contacter par e-mail pour plus d'informations : cemalbgn@gmail.com
