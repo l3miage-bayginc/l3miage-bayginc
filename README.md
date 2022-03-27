@@ -1,6 +1,6 @@
 - 👋 Bonjour je suis Cemal BAYGIN !
 
-- 🌱 I’m currently learning Angular/TS and the best language ever Dart/Flutter
+- 🌱 I’m currently learning Angular/TS and Dart/Flutter
 
 ---
 
@@ -15,6 +15,7 @@ Stack par ordre de maîtrise:
   - Angular ( montée en compétence en cours )
   - Php et Html/CSS
   - Assembleur ARM
+  - Spring boot, Spring Data JPA
 
 Mobilitée géographique:
   - Genève
